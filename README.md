@@ -11,6 +11,8 @@ Press spacebar to restart game.
 
 ![P5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Mixkit](https://img.shields.io/badge/MIXKIT-black?style=for-the-badge)
+
 
 ## Features
 - Player Movement
